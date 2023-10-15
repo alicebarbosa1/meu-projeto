@@ -1,1 +1,2 @@
-ignorando-arquivo
+ignorando-arquivo.txt
+ignorando-arquivo2.txt
